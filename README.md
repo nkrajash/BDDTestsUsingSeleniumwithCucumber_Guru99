@@ -4,8 +4,12 @@ Design Behaviour Driven Development tests for Guru99 Bank Application Login Page
 
 
 # Features
-> Selenium Java
-> Eclipse IDE
-> Cucumber
-> Maven Repository
-> TestNG
+1 Selenium Java
+
+2 Eclipse IDE
+
+3 Cucumber
+
+4 Maven Repository
+
+5 TestNG
